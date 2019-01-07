@@ -31,6 +31,7 @@
     <section id="showcase">
       <div class="container">
         <h1>Library management is a sub-discipline of institutional management.</h1>
+        <h2>Library Management System best for managing library books.</h2>
         <p>Library management encompasses normal managerial tasks, as well as intellectual freedom and fundraising responsibilities. Issues faced in library management frequently overlap with those faced in managing non-profit organizations.</p>
       </div>
     </section>
