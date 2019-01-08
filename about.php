@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Affordable Web Design For Small And Medium-Sized Companies">
     <meta name="author" content="Sebastian Eschweiler">
-    <title>LIBRARY MANAGEMENT SYSTEM</title>
+    <title>LIBRARY MANAGEMENT</title>
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/font-awesome.min.css">
   </head>
